@@ -20,7 +20,7 @@ function export_gcal_to_gsheet(){
 // https://developers.google.com/apps-script/reference/calendar/calendar-event
 //
 
-var mycal = "bas@lemmens.cc";
+var mycal = "steve@jobs.com";
 var cal = CalendarApp.getCalendarById(mycal);
 
 // Optional variations on getEvents
